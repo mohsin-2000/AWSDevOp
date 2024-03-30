@@ -1,1 +1,3 @@
 modifying file2
+modifying file2 for git difference
+modifying file2 2nd time git difference
