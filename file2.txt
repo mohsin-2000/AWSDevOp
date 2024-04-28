@@ -1,7 +1,0 @@
-modifying file2
-modifying file2 for git difference
-modifying file2 2nd time git difference
-
-complete work 1
-complete work 2
-
